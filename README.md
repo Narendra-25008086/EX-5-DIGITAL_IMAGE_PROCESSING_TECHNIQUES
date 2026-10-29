@@ -1,7 +1,7 @@
 # DIGITAL_IMAGE_PROCESSING_TECHNIQUES-EX5
 # Image Smoothing and Sharpening Using OpenCV
 ## NAME:NARENDRA KRISHNAN KS
-## 212225240096
+## REG NO:212225240096
 ## Aim
 
 To write a Python program using OpenCV to apply different smoothing filters (Averaging, Weighted Averaging, Gaussian, Median) and sharpening filters (Laplacian Kernel and Laplacian Operator) for image enhancement, and display each result separately along with the original image for comparison.
